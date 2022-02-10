@@ -1,3 +1,4 @@
+package Arrays;
 public class findAverage {
     public static void main(String args[]) {
         int score1 = 60;

@@ -1,3 +1,4 @@
+package Arrays;
 public class primitiveArray {
     public static void main(String args[]) {
         int[] scores;
